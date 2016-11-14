@@ -6,7 +6,9 @@
         "Brian Hadaway <brianhadaway@gmail.com>"
     ],
     "description": "iOS-style Sticky Headers with jQuery",
-    "main": "src/jquery.ubaplayer.js",
+    "main": [
+	"src/jquery.ioslist.src.js"
+    ],
     "keywords": [
         "sticky headers",
         "jQuery",
